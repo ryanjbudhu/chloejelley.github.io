@@ -1,0 +1,13 @@
+name: "Chloe Jelley"
+output_dir: "../www/"
+navbar: 
+  title: Chloe Jelley
+  left: 
+    - text: "Research"
+      href: research.html
+    - text: "Outreach"
+      href: outreach.html
+    - text: "CV & Contact Me"
+      href: cv.html
+  html_document: 
+        theme: cayman
