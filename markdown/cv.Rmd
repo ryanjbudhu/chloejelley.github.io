@@ -2,17 +2,8 @@
 title: "CV and Contact Me"
 ---
 
-Here is my CV.
-
 <p style="text-align: center">
 ![](images/Chloe Jelley CV (Feb 2022).pdf){width=80% height=800px}
 </p>
 
-Email: cmj96@cornell.edu
-
-Twitter: [chloe_jelley](https://twitter.com/chloe_jelley)
-
 ![](images/madagascar_arborealsampling(bait).jpg)
-
-
-
