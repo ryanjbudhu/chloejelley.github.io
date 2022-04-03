@@ -3,4 +3,4 @@ Chloe Jelley 2022
 
 [<i class="fa fa-twitter" aria-hidden="true"></i>](https://twitter.com/chloe_jelley)
 
-[<i class="fa fa-envelope" aria-hidden="true"></i>](mailto::cmj96@cornell.edu)
+[<i class="fa fa-envelope" aria-hidden="true"></i>](mailto:cmj96@cornell.edu)
